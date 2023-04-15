@@ -1,3 +1,3 @@
-# Dart Native Builds
+# Dart Desktop Builds
 
-A repo to store Dart native app builds.
+A repo to store Dart desktop app builds.
